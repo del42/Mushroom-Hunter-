@@ -1,0 +1,23 @@
+1. run Apache Cassandra
+
+	delgersurens-MacBook-Pro:apache-cassandra-1.2.4 Del$ bin/cassandra
+
+2. install cql (if installed already, then go to step 3)
+
+	delgersurens-MacBook-Pro:Desktop Del$ sudo pip install cql
+
+3. install django (if installed already, then go to step 4)
+
+	delgersurens-MacBook-Pro:Desktop Del$ sudo pip install django
+
+4. make django project (if project made already, then go to step 5)
+
+	delgersurens-MacBook-Pro:Desktop Del$ /Library/Python/2.7/site-packages/django/bin/django-admin.py startproject mushrooms
+
+5. run django project
+	
+	delgersurens-MacBook-Pro:mushrooms Del$ python manage.py runserver
+6. check django project running by typing 
+	
+	http://127.0.0.1:8000/ on browser.
+	

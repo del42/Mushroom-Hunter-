@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CYSavedWindowFrame</key>
+	<string>-779 174 320 512 -1920 -280 1920 1080 </string>
+	<key>ContentSplitViewGeometry</key>
+	<dict>
+		<key>ContentSplitViewConfig</key>
+		<integer>8</integer>
+		<key>SplitViewConfig</key>
+		<integer>3</integer>
+		<key>_indexOfCollapsedView</key>
+		<integer>0</integer>
+		<key>sizes</key>
+		<array>
+			<string>{{0, 0}, {1122, 532}}</string>
+			<string>{{0, 542}, {1122, 367}}</string>
+		</array>
+	</dict>
+	<key>ContentViewType</key>
+	<integer>0</integer>
+	<key>DeploymentOptions</key>
+	<dict>
+		<key>Destination</key>
+		<string>localhost.default</string>
+		<key>EmailToNotifyAddress</key>
+		<string>delger42@gmail.com</string>
+		<key>Path</key>
+		<string>mushroomsWeb</string>
+		<key>SavePath</key>
+		<string>/Users/Del/Desktop/mushrooms/mushrooms/media</string>
+		<key>enableSimulation</key>
+		<true/>
+		<key>simulatedHost</key>
+		<string>delgersurens-MacBook-Pro.local</string>
+	</dict>
+	<key>MainSplitViewGeometry</key>
+	<dict>
+		<key>_indexOfCollapsedView</key>
+		<integer>0</integer>
+		<key>sizes</key>
+		<array>
+			<string>{{0, 0}, {244, 930}}</string>
+			<string>{{245, 0}, {1123, 930}}</string>
+		</array>
+	</dict>
+	<key>MainWindowFrame</key>
+	<string>-1770 -153 1367 951 -1920 -280 1920 1080 </string>
+	<key>MobileWeb</key>
+	<dict>
+		<key>Objects view expanded items</key>
+		<array>
+			<array>
+				<integer>0</integer>
+			</array>
+			<array>
+				<integer>0</integer>
+				<integer>1</integer>
+			</array>
+			<array>
+				<integer>0</integer>
+				<integer>0</integer>
+			</array>
+		</array>
+		<key>Objects view last selections</key>
+		<array>
+			<array>
+				<integer>0</integer>
+			</array>
+		</array>
+		<key>Visible StackLayout Views</key>
+		<array>
+			<string>view1</string>
+		</array>
+	</dict>
+	<key>NavigatorSplitViewGeometry</key>
+	<dict>
+		<key>ContentSplitViewConfig</key>
+		<integer>5</integer>
+		<key>SplitViewConfig</key>
+		<integer>3</integer>
+		<key>_indexOfCollapsedView</key>
+		<integer>0</integer>
+		<key>sizes</key>
+		<array>
+			<string>{{0, 0}, {246, 491}}</string>
+			<string>{{0, 501}, {246, 408}}</string>
+		</array>
+	</dict>
+</dict>
+</plist>
